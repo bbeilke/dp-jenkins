@@ -45,7 +45,7 @@ metadata:
   name: hello-route
   namespace: dp
 spec:
-  host: cpd-cp4i.mycluster-syd01-c3c-32x64-4c1a443ebaec2dc527b196dee1db66b5-0000.au-syd.containers.appdomain.cloud
+  host: hello.mycluster-syd01-c3c-32x64-4c1a443ebaec2dc527b196dee1db66b5-0000.au-syd.containers.appdomain.cloud
   port:
     targetPort: 8000
   tls:
